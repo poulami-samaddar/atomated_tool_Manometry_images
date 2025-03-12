@@ -1,0 +1,1 @@
+This project is designed to develop a digital platform for automated detection and quantification of fundamental manometric events – the propagated contractile events (PCEs) – in high-resolution small bowel manometry tracings, assessing their frequencies, length and propagation velocities. 
