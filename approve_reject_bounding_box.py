@@ -1,3 +1,4 @@
+###### this code is used to view images with bounding box that is saved inside bounding_box filder and approve/reject###############
 import cv2
 import matplotlib.pyplot as plt
 # %matplotlib inline
